@@ -1,4 +1,4 @@
-# Object-Oriented-Design
+# Object Oriented Design Problems
 
 Some Object Oriented Design Problems Code
 
